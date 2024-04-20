@@ -1,0 +1,1 @@
+print("power"+str(22+55))
